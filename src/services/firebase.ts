@@ -8,12 +8,12 @@ import { getAuth } from "firebase/auth";
 // Your web app's Firebase configuration
 // Attention Please add your firebase console config here
 const firebaseConfig = {
-  apiKey: "AIzaSyB4ab7HsnaeSZYNiE-JrhPongdTKHWx6iM",
-  authDomain: "exer-7.firebaseapp.com",
-  projectId: "exer-7",
-  storageBucket: "exer-7.appspot.com",
-  messagingSenderId: "432157227239",
-  appId: "1:432157227239:web:d9a6325fa61910ca214a42"
+  apiKey: "AIzaSyAQKC_sO_sjc5300vK3F_XKa3KNyfYks_o",
+  authDomain: "domere7.firebaseapp.com",
+  projectId: "domere7",
+  storageBucket: "domere7.appspot.com",
+  messagingSenderId: "15109204026",
+  appId: "1:15109204026:web:ab747009b79a97c9d96d03"
 };
 
 // Initialize Firebase
